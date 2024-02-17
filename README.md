@@ -19,8 +19,8 @@ This repository contains code developed at **42 Barcelona Common Core**, from **
 | Project | Language | Grade | Last Commit | Review Information |
 | :--- | :--- | :--- | :--- | :--- |
 | [libft](https://github.com/gerpallares/Libft) | <img src="https://img.shields.io/badge/C%20-%20purple" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20-%20green" /> | <img src="https://img.shields.io/github/last-commit/gerpallares/Libft.svg" /> | `3 peers`|
-| [get_next_line](https://github.com/gerpallares/GetNextLine_42) | <img src="https://img.shields.io/badge/C%20-%20purple" /> | <img src="https://img.shields.io/badge/Not%20graded%20yet%20-%20blue" /> | <img src="https://img.shields.io/github/last-commit/gerpallares/GetNextLine_42" /> | `3 peers`|
-| [ft_printf](https://github.com/gerpallares/Printf_42) | <img src="https://img.shields.io/badge/C%20-%20purple" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20-%20green" /> | <img src="https://img.shields.io/github/last-commit/gerpallares/Printf_42" /> | `3 peers`|
+| [get_next_line](https://github.com/gerpallares/GetNextLine_42) | <img src="https://img.shields.io/badge/C%20-%20purple" /> | <img src="https://img.shields.io/badge/Not%20graded%20yet%20-%20blue" /> | <img src="https://img.shields.io/github/last-commit/gerpallares/GetNextLine_42.svg" /> | `3 peers`|
+| [ft_printf](https://github.com/gerpallares/Printf_42) | <img src="https://img.shields.io/badge/C%20-%20purple" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20-%20green" /> | <img src="https://img.shields.io/github/last-commit/gerpallares/Printf_42.svg" /> | `3 peers`|
 | [born2beroot]() | <img src="https://img.shields.io/badge/bash%20-%20purple" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20-%20green" /> | <img src="https://img.shields.io/github/last-commit/gorgalla/42_BCN_COMMON_CORE" /> | `3 peers`|
 
 </div>
